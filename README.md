@@ -24,6 +24,6 @@ We designed, built, and programmed an autonomous robot capable of navigating the
 3. For LiDAR mode: run `ros2 launch code/raspberrypi/slam_mapping.launch`.
 
 ## Team Members
-- Khalid Bashar – Mechanical design (CAD & 3D printing).
+- Amr Elzehairy – Mechanical design (CAD & 3D printing).
 - Ahmed Osama – Electronics & Arduino programming.
-- Amr Elzehairy – Testing, HuskyLens integration.
+- Nasser Hassan – Testing, HuskyLens integration.
