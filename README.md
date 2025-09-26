@@ -27,6 +27,3 @@ We designed, built, and programmed an autonomous robot capable of navigating the
 - Khalid Bashar – Mechanical design (CAD & 3D printing).
 - Ahmed Osama – Electronics & Arduino programming.
 - Amr Elzehairy – Testing, HuskyLens integration.
-
-## 📖 Documentation
-Full project report: [docs/WRO2025_Report.pdf](docs/WRO2025_Report.pdf)
